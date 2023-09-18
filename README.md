@@ -49,6 +49,3 @@ Friend
 Referral Status
 Data
 Sample referral event data is provided within the component for demonstration purposes. You can replace this data with your own data source.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
